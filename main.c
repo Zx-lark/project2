@@ -6,7 +6,7 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include "make_log.h"
-
+//demaxiya
 int main(int argc,char*argv[])
 {
 	if(argc<2)
